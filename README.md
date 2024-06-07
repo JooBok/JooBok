@@ -1,4 +1,7 @@
 ## Hi there 👋
+[![JooBok's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooBok&theme=dark&show_icons=true)](https://github.com/JooBok/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JooBok&layout=donut)](https://github.com/JooBok/github-readme-stats)
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
