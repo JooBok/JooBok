@@ -1,4 +1,4 @@
-# Hi 👋
+## Hi 👋
 ## 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=JooBok&theme=dark&show_icons=true" alt="JooBok's GitHub stats" style="width: 49%;">
