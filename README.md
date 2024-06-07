@@ -1,10 +1,4 @@
 ## Hi 👋
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JooBok&theme=dark&show_icons=true" alt="JooBok's GitHub stats" style="width: 49%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooBok&layout=donut" alt="Top Languages" style="width: 49%;">
-</div>
-
-## 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
@@ -48,4 +42,10 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
+</div>
+
+## 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JooBok&theme=dark&show_icons=true" alt="JooBok's GitHub stats" style="width: 49%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooBok&layout=donut" alt="Top Languages" style="width: 49%;">
 </div>
