@@ -1,10 +1,4 @@
 ## Hi there 👋
-<!--타이틀 부분-->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JooBok's%20Github&fontSize=90">
-</div>
-
-<!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
