@@ -1,6 +1,9 @@
 ## Hi there 👋
-[![JooBok's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooBok&theme=dark&show_icons=true)](https://github.com/JooBok/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JooBok&layout=donut)](https://github.com/JooBok/github-readme-stats)
+## Github Stats & Most Languages
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JooBok&theme=dark&show_icons=true" alt="JooBok's GitHub stats" style="width: 60%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooBok&layout=donut" alt="Top Languages" style="width: 40%;">
+</div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
